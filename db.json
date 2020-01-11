@@ -1,11 +1,10 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "languages": [
+    {"text": "fa", "value": "1"},
+    {"text": "en", "value": "2"}
+
+
+  ]
+
+  
 }
